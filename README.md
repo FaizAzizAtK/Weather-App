@@ -44,3 +44,4 @@ To launch the app locally:
 - This app uses [WeatherAPI](https://www.weatherapi.com/) over [OpenWeather](https://openweathermap.org/) because it provides extended features without requiring bank details for account creation.
 
 --- 
+# Weather-App
