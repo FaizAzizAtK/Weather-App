@@ -4,6 +4,8 @@ https://github.com/rayanbahadur/weather-app-extreme/assets/118920618/98c073e0-8a
 
 # Extreme Weather App
 
+Weather app for extreme sport enthusiasts
+
 ## Installation
 
 To set up the app, you'll need to follow the following steps:
